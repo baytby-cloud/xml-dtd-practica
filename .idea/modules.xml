@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Documentos/ProcesadorCalificaciones/ProcesadorCalificaciones.iml" filepath="$PROJECT_DIR$/Documentos/ProcesadorCalificaciones/ProcesadorCalificaciones.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Documentos/calculadora-desviacion-estandar-main/calculadora-desviacion-estandar-main.iml" filepath="$PROJECT_DIR$/Documentos/calculadora-desviacion-estandar-main/calculadora-desviacion-estandar-main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/xml-dtd-practica.iml" filepath="$PROJECT_DIR$/.idea/xml-dtd-practica.iml" />
+    </modules>
+  </component>
+</project>
